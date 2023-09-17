@@ -9,3 +9,6 @@ class HomePage:
 
     def shopItems(self):
         return self.driver.find_element(*HomePage.shop)
+
+    def printing(self):
+        print("using page Object project maxremind guy")
