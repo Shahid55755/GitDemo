@@ -15,3 +15,6 @@ class HomePage:
 
     def printings(self):
         print("using page Object project maxremind guy")
+
+    def shahiid(self):
+        print("i am using it from Gitdemo")
