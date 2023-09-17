@@ -12,3 +12,6 @@ class HomePage:
 
     def printing(self):
         print("using page Object project maxremind guy")
+
+    def printings(self):
+        print("using page Object project maxremind guy")
